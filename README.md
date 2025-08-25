@@ -17,7 +17,7 @@ It leverages the **Yahoo Finance API (`yfinance`)** to fetch stock market data a
 ---
 
 ## 🛠️ Tech Stack
-- **Python 3.x**
+- **Python 3.13.7**
 - **Libraries**:  
   - `pandas`, `numpy` → Data manipulation  
   - `matplotlib` → Visualization  
